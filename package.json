@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "onesignal-node": "^3.3.0",
+    "react-onesignal": "^2.0.3"
+  }
+}
